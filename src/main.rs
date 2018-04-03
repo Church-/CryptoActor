@@ -1,0 +1,3 @@
+mod char;
+
+fn main() {}
